@@ -1,0 +1,14 @@
+﻿2017/05/20 22:20:37 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "c:\Users\admin\documents\visual studio 2013\Projects\Resque_Image_Server\Resque_Image_Server\Resque_Image_Server.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /wd4996 /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\admin\documents\visual studio 2013\projects\resque_image_server\resque_image_server\main.cpp(21): warning C4101: 'recvsocket' : ローカル変数は 1 度も使われていません。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\admin\documents\visual studio 2013\Projects\Resque_Image_Server\Debug\Resque_Image_Server.exe" /INCREMENTAL /NOLOGO opencv_core249d.lib opencv_highgui249d.lib opencv_imgproc249d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\admin\documents\visual studio 2013\Projects\Resque_Image_Server\Debug\Resque_Image_Server.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\admin\documents\visual studio 2013\Projects\Resque_Image_Server\Debug\Resque_Image_Server.lib" /MACHINE:X86 Debug\main.obj
+         Resque_Image_Server.vcxproj -> c:\users\admin\documents\visual studio 2013\Projects\Resque_Image_Server\Debug\Resque_Image_Server.exe
+     1>プロジェクト "c:\Users\admin\documents\visual studio 2013\Projects\Resque_Image_Server\Resque_Image_Server\Resque_Image_Server.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.46
